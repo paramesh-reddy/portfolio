@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Sainath Reddy</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          Developing over 20 web applications and 5+ mobile experiences with a focus on dynamic 3D visuals and intuitive user interfaces.
+            Developing Digital Experiences: 20+ Web Apps, 5+ Mobile Solutions, Endless Possibilities.
           </p>
         </div>
       </div>

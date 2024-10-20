@@ -17,12 +17,13 @@ import {
   docker,
   meta,
   starbucks,
-  tesla,
   shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  ts,
+  insys
 } from "../assets";
 
 export const navLinks = [
@@ -42,7 +43,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "React Js Developer",
     icon: web,
   },
   {
@@ -50,13 +51,13 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Node Js Developer",
     icon: backend,
   },
-  {
-    title: "Django",
-    icon: creator,
-  },
+  // {
+  //   title: "Django",
+  //   icon: creator,
+  // },
   {
     title: "Spring Boot",
     icon: creator,
@@ -123,7 +124,7 @@ const experiences = [
   {
     title: "SDE - 1 @ Frontend Developer",
     company_name: "3Insys, California",
-    icon: meta,
+    icon: insys,
     iconBg: "#E6DEDD",
     date: "Aug-2022 - Present",
     points: [
@@ -137,7 +138,7 @@ const experiences = [
   {
     title: "Full Stack Developer (Intern)",
     company_name: "Aurora e-Labs Pvt Ltd",
-    icon: starbucks,
+    icon: meta,
     iconBg: "#383E56",
     date: "Jul-2022 to Feb-2023",
     points: [
@@ -149,7 +150,7 @@ const experiences = [
   {
     title: "SDE - Full-Stack Web Developer (Intern)",
     company_name: "TalentSpotify",
-    icon: tesla,
+    icon: ts,
     iconBg: "#E6DEDD",
     date: "Jul-2022 to Feb-2023",
     points: [
