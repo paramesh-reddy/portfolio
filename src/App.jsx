@@ -15,13 +15,13 @@ const App = () => {
           name="keywords" 
           content="Full-Stack Developer, React.js Developer, React Native Developer, Mobile App Developer, Web Development, Node.js, JavaScript, Python, AWS, Docker, Nginx, Portfolio, Java, Redux, Expo, Next.js, TypeScript, Django, Spring Boot, MongoDB, PostgreSQL, DevOps, Material UI, Tailwind CSS, CI/CD, Firebase, Sainath Reddy Guraka" 
         />
-        <link rel="canonical" href="https://yourwebsite.com" />
+        <link rel="canonical" href="https://sainathreddyguraka.netlify.app" />
         <meta property="og:title" content="Full-Stack & Mobile App Developer Portfolio | Sainath Reddy Guraka" />
         <meta 
           property="og:description" 
           content="Explore the portfolio of Sainath Reddy Guraka, a Full-Stack Developer with 2+ years of hands-on experience in web and mobile application development using React.js, React Native, Node.js, and more." 
         />
-        <meta property="og:url" content="https://yourwebsite.com" />
+        <meta property="og:url" content="https://sainathreddyguraka.netlify.app" />
         <meta property="og:type" content="website" />
         
         {/* Adding JSON-LD Structured Data for SEO */}
@@ -29,7 +29,7 @@ const App = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "url": "https://yourwebsite.com",
+            "url": "https://sainathreddyguraka.netlify.app",
             "name": "Sainath Reddy Guraka Portfolio",
             "description": "Portfolio of Sainath Reddy Guraka, Full-Stack and Mobile App Developer specializing in modern web and mobile development technologies.",
             "author": {
