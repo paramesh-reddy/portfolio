@@ -6,22 +6,22 @@ const App = () => {
   return (
     <HelmetProvider>
       <Helmet>
-        <title>Home | Full-Stack & Mobile App Developer Portfolio - Sainath Reddy Guraka</title>
+        <title>Home | Full-Stack & Mobile App Developer Portfolio - ParameshWar Reddy Guraka</title>
         <meta 
           name="description" 
-          content="Portfolio of Sainath Reddy Guraka, Full-Stack Developer with expertise in web and mobile application development. Showcasing projects, skills, and experience in React.js, React Native, Node.js, and more." 
+          content="Portfolio of ParameshWar Reddy Guraka, Full-Stack Developer with expertise in web application development. Showcasing projects, skills, and experience in React.js,Next.js, Node.js,python,Fast Api,MongoDB, and more." 
         />
         <meta 
           name="keywords" 
-          content="Full-Stack Developer, React.js Developer, React Native Developer, Mobile App Developer, Web Development, Node.js, JavaScript, Python, AWS, Docker, Nginx, Portfolio, Java, Redux, Expo, Next.js, TypeScript, Django, Spring Boot, MongoDB, PostgreSQL, DevOps, Material UI, Tailwind CSS, CI/CD, Firebase, Sainath Reddy Guraka" 
+          content="Full-Stack Developer, React.js Developer, Python App Developer, Web Development, Node.js, JavaScript, Python, Portfolio, Redux, Next.js, TypeScript, MongoDB, PostgreSQL, Material UI, Tailwind CSS, ParameshWar Reddy Guraka" 
         />
-        <link rel="canonical" href="https://sainathreddyguraka.netlify.app" />
-        <meta property="og:title" content="Full-Stack & Mobile App Developer Portfolio | Sainath Reddy Guraka" />
+        <link rel="canonical" href="https://github.com/paramesh-reddy" />
+        <meta property="og:title" content="Full-Stack & Mobile App Developer Portfolio | ParameshWar Reddy Guraka" />
         <meta 
           property="og:description" 
-          content="Explore the portfolio of Sainath Reddy Guraka, a Full-Stack Developer with 2+ years of hands-on experience in web and mobile application development using React.js, React Native, Node.js, and more." 
+          content="Explore the portfolio of Parameshwar Reddy Guraka, a Full-Stack Developer with 1+ years of hands-on experience in web and mobile application development using React.js, React Native, Node.js,Python,Fast Api,Bootstrap, and more." 
         />
-        <meta property="og:url" content="https://sainathreddyguraka.netlify.app" />
+        <meta property="og:url" content="https://github.com/paramesh-reddy" />
         <meta property="og:type" content="website" />
         
         {/* Adding JSON-LD Structured Data for SEO */}
@@ -29,12 +29,12 @@ const App = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "url": "https://sainathreddyguraka.netlify.app",
-            "name": "Sainath Reddy Guraka Portfolio",
-            "description": "Portfolio of Sainath Reddy Guraka, Full-Stack and Mobile App Developer specializing in modern web and mobile development technologies.",
+            "url": "https://github.com/paramesh-reddy",
+            "name": "ParameshWar Reddy Guraka Portfolio",
+            "description": "Portfolio of Parameshwar Reddy Guraka, Full-Stack and Mobile App Developer specializing in modern web and mobile development technologies.",
             "author": {
               "@type": "Person",
-              "name": "Sainath Reddy Guraka"
+              "name": "ParameshWar Reddy Guraka"
             }
           })}
         </script>

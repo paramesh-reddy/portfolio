@@ -29,7 +29,7 @@ import insys from "./company/3inys.svg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import python from  "./tech/python.png"
 export {
   logo,
   backend,
@@ -59,5 +59,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  python,
   insys
 };

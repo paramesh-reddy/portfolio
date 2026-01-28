@@ -23,6 +23,7 @@ import {
   tripguide,
   threejs,
   ts,
+  python,
   insys,
 } from "../assets";
 
@@ -47,7 +48,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Python Developer",
     icon: mobile,
   },
   {
@@ -59,7 +60,7 @@ const services = [
   //   icon: creator,
   // },
   {
-    title: "Spring Boot",
+    title: "Next Js Developer",
     icon: creator,
   },
 ];
@@ -102,10 +103,6 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
   },
@@ -114,8 +111,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "python",
+    icon: python,
   },
 ];
 
@@ -125,9 +122,9 @@ const experiences = [
     company_name: "Digiotai",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "June 2024 - Present",
+    date: "jan 2025 - oct 2025",
     points: [
-      "Developed innovative solutions using React.js, React Native, TypeScript, and Material UI, delivering 5+ key features that improved performance and user engagement across applications",
+      "Developed innovative solutions using React.js, TypeScript, and Material UI, delivering 5+ key features that improved performance and user engagement across applications",
       "Built and maintained Payg mobile and web applications used by 10,000+ customers for seamless electric vehicle (EV) charging, improving user satisfaction by 15% based on feedback and analytics.",
       "Designed and implemented the Eves Admin Panel, a central management system for monitoring 1000+ EV chargers, reducing operational overhead by 20% through improved efficiency.",
       "Developed XSI (Cross System Integrator) from scratch, integrating 20+ enterprise systems with pre-built tools and adapters, enabling 99.9% uptime and reducing integration time by 40%.",
@@ -135,16 +132,17 @@ const experiences = [
     ],
   },
   {
-    title: " SDE- @ Frontend Web Developer (Intern)",
-    company_name: "Digiotai",
+    title: " SDE- @ FullStack Web Developer (Intern)",
+    company_name: "Talent Spotify",
     icon: meta,
     iconBg: "#383E56",
-    date: "June-2023 to december-2023",
-    points: [
-      "Developed innovative solutions for company products using React.js, TypeScript, Node.js, and Material UI, enhancing functionality and achieving project objectives",
-      "Created and integrated Proof of Concepts (POCs) into real-worldprojects, demonstrating feasibility and driving successful implementation of new features.",
-      "Collaborated with cross-functional teams to ensure alignment on project goals, resulting in a 15% increase in project delivery efficiency.",
-    ],
+    date: "may-2025 to dec-2025",
+   points: [
+  "Created user interfaces using React.js and Material UI.",
+  "Integrated backend APIs into the UI to show real-time data.",
+  "Worked on backend APIs using Node.js for data handling.",
+  "Connected frontend and backend to deliver complete features."
+     ]
   },
   {
     title: "SDE - Frontend Web Developer (Intern)",
